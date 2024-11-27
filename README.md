@@ -10,7 +10,7 @@
 - pip install pip
 - pip install mediapipe opencv-python
 
-### jika masih tidak bisa gunakan environment 
+### ` jika masih tidak bisa gunakan environment ` 
 - sudo apt install python3 python3-venv python3-pip
 - cd main
 - python3 -m venv venv
